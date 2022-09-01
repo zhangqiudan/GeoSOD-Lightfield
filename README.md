@@ -1,5 +1,5 @@
 # Geometry Auxiliary Salient Object Detection for Light Fields via Graph Neural Networks
-![network]()
+
 
 ## Training stage
 1. Prepare the training data and change the data path
