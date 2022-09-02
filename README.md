@@ -1,5 +1,5 @@
 # Geometry Auxiliary Salient Object Detection for Light Fields via Graph Neural Networks
-
+![network](https://github.com/zhangqiudan/GeoSOD-Lightfield/blob/main/data/framework.jpg)
 ## Training stage
 1. Prepare the training data and change the data path
 2. Download the [initial model](https://pan.baidu.com/s/1cTkx2dbbyeT1jLSC1Uejfw) - hqpw to the weights folder
